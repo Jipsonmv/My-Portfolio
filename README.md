@@ -1,4 +1,4 @@
-Website Address: [Live Example]( https://jipsonmv.github.io/My-Portfolio/)
+Website Address:[My Portfolio]]( https://jipsonmv.github.io/My-Portfolio/)
 
 - Data Science students' Portfolio Template
 
